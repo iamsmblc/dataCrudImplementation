@@ -1,3 +1,3 @@
 # dataCrudImplementation
 
-This procet has crud applications such as add,delete and update 
+This project has crud applications such as add,delete and update 
